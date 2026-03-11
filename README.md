@@ -48,75 +48,44 @@ Operar em modo global (busca geral)
 📌 Gestão de Procedimentos
 
 Cadastro completo com:
-
 Título
-
 Categoria
-
 Sistema/Local
-
 Objetivo
-
 Quando utilizar
-
 Conteúdo detalhado
-
 Edição e visualização
-
 Organização por categorias
-
 Listagem dinâmica via DataTables
 
+
 📄 Upload de PDF com OCR textual
-
 É possível enviar um manual em PDF. O sistema:
-
 Salva o arquivo
-
 Executa script Python
-
 Extrai o texto automaticamente
-
 Preenche o conteúdo do procedimento
-
 Gera resumo para uso pela IA
 
 🤖 Chat Inteligente
-
 Chat contextual por procedimento
-
 Chat global para consultas gerais
-
 Histórico salvo no navegador (localStorage)
-
 Limite de 500 caracteres por mensagem
 
 🛠️ Tecnologias Utilizadas
 Backend
-
 PHP 8+
-
 MySQL / MariaDB
-
 PDO
-
 Python (opcional para extração de PDF)
-
 Frontend
-
 Bootstrap 5
-
 jQuery
-
 DataTables
-
 JavaScript puro
-
 IA
-
 OpenAI API (ChatGPT)
-
-
 
 ⚙️ Instalação
 1️⃣ Clonar o repositório
