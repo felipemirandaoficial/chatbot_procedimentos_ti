@@ -3,10 +3,15 @@
 Sistema web desenvolvido em PHP + MySQL/MariaDB para gerenciamento centralizado de procedimentos técnicos de TI, com suporte a:
 
 ✔ Cadastro estruturado de procedimentos
+
 ✔ Upload de PDF com extração automática de texto
+
 ✔ Organização por categorias
+
 ✔ Busca rápida via DataTables
+
 ✔ Chatbot com IA para auxílio na execução dos procedimentos
+
 ✔ Interface moderna com Bootstrap
 
 🚀 Visão Geral
